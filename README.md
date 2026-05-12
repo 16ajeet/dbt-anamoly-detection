@@ -423,11 +423,11 @@ The system generates:
 
 # 👨‍💻 Author
 
-Ajeet Kumar
-Ashutosh Singh
-Shivam dahiphale
-Prateek D. Nagdeve
-Rajkumar Rajak
+* Ajeet Kumar
+* Ashutosh Singh
+* Shivam dahiphale
+* Prateek D. Nagdeve
+* Rajkumar Rajak
 
 ---
 
