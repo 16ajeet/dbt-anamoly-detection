@@ -1,0 +1,6 @@
+step,amount,oldbalanceOrg,newbalanceOrig,oldbalanceDest,newbalanceDest,nameOrig_txn_count,nameDest_txn_count,nameOrig_mean_amount,nameDest_mean_amount,hour,is_large_transaction,type_CASH_OUT,type_PAYMENT,type_TRANSFER
+300,1200000,1200000,0,0,1200000,25,18,950000,900000,2,1,0,0,1
+320,2500000,2500000,0,0,2500000,40,30,2100000,1900000,1,1,1,0,0
+340,1800000,1800000,0,0,1800000,28,22,1600000,1500000,3,1,0,0,1
+360,3000000,3000000,0,0,3000000,50,40,2700000,2500000,4,1,1,0,0
+380,2200000,2200000,0,0,2200000,35,27,2000000,1800000,2,1,0,0,1
